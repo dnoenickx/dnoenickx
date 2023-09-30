@@ -1,6 +1,6 @@
-### Hello!
-
 I'm Danny.
+
+I'm a software engineer from Boston.
 
 - 💻 Current personal projects include websites for exploring...
   -  🗳 municipal election results in Boston ([site](https://dnoenickx.github.io/boston-votes/) / [github](https://github.com/dnoenickx/boston-votes))
