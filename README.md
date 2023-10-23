@@ -4,8 +4,9 @@
  
 - 🤔 Interested in...
   - 🚃 Transportation
+  - 🏙 Cities/landuse/development
   - 🔋 Climate
-  - 🗺 GIS
+  - 🗺 GIS/cartography
   - 📊 Finance
 
 - 😁 Hobbies...
